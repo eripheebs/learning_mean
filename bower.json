@@ -1,0 +1,21 @@
+{
+  "name": "hello_mean",
+  "description": "hello world",
+  "main": "index.js",
+  "authors": [
+    "eripheebs <erikapheby@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-resource": "^1.5.5"
+  }
+}
